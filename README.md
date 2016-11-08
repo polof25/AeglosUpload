@@ -93,9 +93,10 @@ $fileUpload->upload();
 //Return true if all was good
 ```
 
-### Who do I talk to? ###
+### LICENSE ###
 
-* Licence : GPL-3
+* GPL-3
+* Created by [Paul-Arthur Fradin](http://paularthurfradin.fr) (Aeglos)
 
 ### DEMO ###
 
